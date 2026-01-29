@@ -2,7 +2,7 @@
 	let angle = 0; // for spinning shapes
 	let particles = [];
 	let gameState = "menu";
-	let bwidth, bheight, bx, by;			//for button click
+	let bwidth, bheight, bx, by;	//for button click
  
 //paddle game variables
 	//adjust for ball
